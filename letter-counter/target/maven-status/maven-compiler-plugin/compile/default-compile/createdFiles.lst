@@ -1,0 +1,5 @@
+com\example\lettercounter\controller\TaskController.class
+com\example\lettercounter\model\AnalysisTask.class
+com\example\lettercounter\LetterCounterApplication.class
+com\example\lettercounter\service\AnalysisService.class
+com\example\lettercounter\model\TaskStatus.class
