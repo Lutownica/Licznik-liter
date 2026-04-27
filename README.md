@@ -1,0 +1,2 @@
+# Licznik-liter
+Poniedzialek
